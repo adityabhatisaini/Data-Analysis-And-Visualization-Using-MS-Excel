@@ -60,7 +60,7 @@ The dashboard includes filters to analyze data based on:
 
 ## Conclusion
 
-This dashboard serves as a comprehensive tool for analyzing house pricing trends and factors influencing the real estate market. Use the filters and charts to dive deeper into the data.
+This dashboard serves as a comprehensive tool for analyzing house pricing trends and factors influencing the real estate market.
 
 ---
 
